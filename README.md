@@ -1,1 +1,1 @@
-# Final Projects for Mathematical Problem-Solving (October 2019)
+# Final Projects for Mathematical Problem-Solving
